@@ -1,3 +1,21 @@
 # BookAPIScript
+> 📚 BookAPIScript
 
-## AWS Lambda + API Gateway + DynamoDB 를 이용한 Restful api 용 Lambda script
+<br />
+
+## 서비스 소개
+- DynamoDB에 있는 사용자 책 정보를 받아오는 api
+
+<br />
+
+## 주요 기능
+- Restful한 형식의 api
+
+<br />
+
+## 기술 스택
+- AWS Lambda
+- API Gateway
+- DynamoDB
+
+<br />
